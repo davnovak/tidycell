@@ -1,0 +1,5 @@
+fcs_directory,workspace,exclusive_gates,transform,transform_cofactor,binning_methods,output_directory,concatenate_fcs,dimension_reduction,precomputed_dimension_reduction,sanity_checks
+fcs_files,workspace.wsp,singlets,asinh,0.2,hyperbinning=32,aberrance_results,1,embedsom:umap,,1
+,,,,,hyperbinning=512,,,,,
+,,,,,flowsom,,,,,
+,,,,,cellcnn,,,,,

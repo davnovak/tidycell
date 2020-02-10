@@ -1,0 +1,13 @@
+fcs_file,class1,class2,class3,Material
+patient1.fcs,0,0,NA,PBMC
+patient2.fcs,0,0,NA,PBMC
+patient3.fcs,0,0,NA,PBMC
+patient4.fcs,0,NA,0,secondary
+patient5.fcs,0,NA,0,secondary
+patient6.fcs,0,NA,0,secondary
+healthy1.fcs,1,1,NA,PBMC
+healthy2.fcs,1,1,NA,PBMC
+healthy3.fcs,1,1,NA,PBMC
+healthy4.fcs,1,NA,1,secondary
+healthy5.fcs,1,NA,1,secondary
+healthy6.fcs,1,NA,1,secondary

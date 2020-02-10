@@ -1,0 +1,8 @@
+channels,markers,analysis,tsne,umap,embedsom
+Er166Di,TCRab,1,0,0,0
+Er170Di,CD3,1,0,0,0
+Ho165Di,TCRgd,1,0,0,0
+Nd142Di,CD28,1,1,1,1
+Nd145Di,CD4,1,1,1,1
+Nd148Di,CD8,1,1,1,1
+Yb172Di,CD38,1,0,0,0
