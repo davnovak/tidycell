@@ -24,7 +24,7 @@ This development version of *tidycell* runs on any Unix machine with Docker inst
 
 Once installed, *tidycell* lives in a Docker container accessible via an RStudio user interface in your web browser. The framework is written in R and also runs some Python scripts.
 
-First, build the Docker image or download a pre-built image. If you wish to build the image yourself, navigate to `./install` and run the command `docker build -t tidycell .`. Otherwise, download the pre-built compressed image here: https://owncloud.cesnet.cz/index.php/s/am0a7rL1R1Ko0tL and use `docker load`.
+First, build the Docker image or download a pre-built image. If you wish to build the image yourself, navigate to `./install` and run the command `docker build -t tidycell .`. Otherwise, download the pre-built compressed image here: https://owncloud.cesnet.cz/index.php/s/AeXV0OBwagSaXNE and use `docker load`.
 
 Once you have the Docker image ready, run the script `docker_run.sh` with the following arguments:
 
