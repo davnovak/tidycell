@@ -5,6 +5,7 @@
 *0.1.0*
 
 This is an early development version.
+An extended and faster version is in the works.
 
 ### What it is
 
